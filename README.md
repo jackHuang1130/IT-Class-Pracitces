@@ -1,6 +1,7 @@
 # IT-Class-Pracitces
 
 CISH | Class of Information Technology.
+
 Exercises during the class with answers from Jack Haung.
 
 Five exercies are included in this repository.
